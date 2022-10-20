@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\dr_shamim_sir.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\humayun_sir.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\riaz.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\testimonials-1.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\testimonials-2.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\testimonials-3.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\testimonials-4.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\testimonials-5.jpg" />
+      <_ContentIncludedByDefault Remove="wwwroot\Content\img\testimonials\Utpal.png" />
+    </ItemGroup>
+
+</Project>
